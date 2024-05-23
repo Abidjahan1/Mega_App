@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:aaram_bd/pages/Homepage.dart';
-import 'package:aaram_bd/pages/ServiceCart.dart';
-import 'package:aaram_bd/pages/ShopsCart.dart';
-import 'package:aaram_bd/screens/navigation_screen.dart';
-import 'package:aaram_bd/screens/service_homepage.dart';
-import 'package:aaram_bd/screens/user_profile.dart';
+import 'package:bd/pages/Homepage.dart';
+import 'package:bd/pages/ServiceCart.dart';
+import 'package:bd/pages/ShopsCart.dart';
+import 'package:bd/screens/navigation_screen.dart';
+import 'package:bd/screens/service_homepage.dart';
+import 'package:bd/screens/user_profile.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_bottom_navigation_bar/animated_bottom_navigation_bar.dart';
 import 'package:flutter/cupertino.dart';
